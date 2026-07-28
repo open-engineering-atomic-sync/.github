@@ -2,6 +2,8 @@
 
 Synchronizing GitHub engineering knowledge into a live semantic graph.
 
+![Open Engineering Atomic Sync hero-banner.png](../assets/hero-banner.png)
+
 Open Engineering Atomic Sync provides the synchronization layer between GitHub repositories and the Open Engineering knowledge graph powered by AtomicServer.
 
 It continuously discovers engineering repositories, validates their metadata, imports ontologies, and synchronizes engineering elements, relationships, and version information into a federated semantic registry.
